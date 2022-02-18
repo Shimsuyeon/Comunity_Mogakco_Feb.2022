@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'GowunBatang-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.area{
+    text-align:center;
+    vertical-align: middle;
+    width:230px;
+    height:200px;
+    background-color: lightgray;
+}
+.area2{
+    text-align:center;
+    width:230px;
+    height:150px;
+    background-color: lightgray;
+}
+.name{
+    font-family: 'GowunBatang-Regular';
+}
+.num{
+    font-family: 'GowunBatang-Regular';
+}
+.call{
+    margin:60px;
+    width:60px;
+    height:50px;
+    padding:10px;
+    border:none;
+    border-radius:50%;
+    background:url(./call.png) center no-repeat green;
+    background-size:40px;
+}
